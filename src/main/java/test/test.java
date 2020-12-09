@@ -6,4 +6,7 @@ package test;
  * @Date: Create in 15:28 2020/12/9
  */
 public class test {
+    public String aa(){
+        return "";
+    }
 }
